@@ -1,6 +1,4 @@
-# ============================================
-# ИМПОРТЫ
-# ============================================
+
 from aiogram import Bot, Dispatcher
 import asyncio
 from config import BOT_TOKEN
