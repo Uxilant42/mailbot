@@ -9,10 +9,10 @@ __pycache__/
 venv/
 env/
 ENV/
+.venv/
 
-# Secret data
+# Secret data - ТОЛЬКО .env файл!
 .env
-config.py
 
 # IDE
 .vscode/
